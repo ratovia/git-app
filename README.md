@@ -1,9 +1,3 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccc
-dddddddddddddddddddddddddddddd
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-ffffffffffffffffffffffffffffff
 # README
 
 This README would normally document whatever steps are necessary to get the
