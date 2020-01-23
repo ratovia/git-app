@@ -7,8 +7,12 @@ Things you may want to cover:
 2.6.3.1
 * Configuration
 
-* Database creation
+uby version
 2.5.1
+* System dependencies
+* Ruby version
+2.5.1
+* System dependencies
 * Database initialization
 
 * How to run the test suite
@@ -16,5 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
+* Ruby version
+2.5.1
+* System dependencies
 * ...
