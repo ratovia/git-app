@@ -8,7 +8,7 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+2.5.1
 * Database initialization
 
 * How to run the test suite
