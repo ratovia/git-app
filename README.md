@@ -11,7 +11,7 @@ Things you may want to cover:
 mysql!!!! nginx unicorn
 
 * Configuration
-
+hello world
 * Database creation
 
 * Database initialization
