@@ -8,7 +8,8 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
-nginx unicorn
+mysql!!!! nginx unicorn
+
 * Configuration
 
 * Database creation
@@ -17,7 +18,6 @@ nginx unicorn
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
 
