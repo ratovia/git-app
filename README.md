@@ -8,10 +8,9 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
-mysql!!!! nginx unicorn
 
 * Configuration
-hello world
+
 * Database creation
 
 * Database initialization
