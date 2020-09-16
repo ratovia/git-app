@@ -1,5 +1,4 @@
-asd;lllalasfasdfas 'https://rubygems.org'lll
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+aathub) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'aaaaaaa
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
